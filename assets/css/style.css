@@ -1,7 +1,5 @@
-.thumbnail a>img, .thumbnail>img{
+.thumbnail a>img, 
+.thumbnail>img {
     height: 300px;
-    width: 500px;
+    width: 600px;
 }
-/* body{ */
-    /* background-color: aqua */
-/* } */
